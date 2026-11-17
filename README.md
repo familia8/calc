@@ -1,2 +1,1 @@
 # calc
-eshkere doto dwa
